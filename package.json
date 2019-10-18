@@ -1,7 +1,7 @@
 {
-  "name": "screenshot-desktop",
-  "version": "0.0.0-development",
-  "description": "Capture a screenshot of your local machine",
+  "name": "screenshot-desktop-loongson",
+  "version": "1.9.0",
+  "description": "Capture a screenshot of your local machine, Edit for loongson（龙芯）",
   "main": "index.js",
   "dependencies": {
     "pinkie-promise": "^2.0.1",
